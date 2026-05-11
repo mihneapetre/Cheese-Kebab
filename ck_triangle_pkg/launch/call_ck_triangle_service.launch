@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="ck_triangle_pkg"
+        type="ck_triangle_client.py"
+        name="ck_triangle_client"
+        output="screen"/>
+</launch>

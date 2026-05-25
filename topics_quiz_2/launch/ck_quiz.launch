@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="topics_quiz_2" type="avoid_wall_2.py" name="ck_topics_quiz_node" output="screen" />
+</launch>
